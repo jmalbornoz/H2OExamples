@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "cells": [
+    {
+      "type": "cs",
+      "input": "assist"
+    },
+    {
+      "type": "cs",
+      "input": "getModels"
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"GLM_grid_1_AutoML_20181203_161307_model_1\""
+    }
+  ]
+}
